@@ -1,0 +1,18 @@
+{
+  "name": "do-line-segments-cross",
+  "version": "1.0.0",
+  "description":
+    "Calculate if two line segments on a 2D plane cross each other",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevandark/do-line-segments-cross.git"
+  },
+  "keywords": ["line", "lines", "segments", "cross"],
+  "author": "Chen Ofek <lu.masahb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeevandark/do-line-segments-cross/issues"
+  },
+  "homepage": "https://github.com/jeevandark/do-line-segments-cross#readme"
+}
